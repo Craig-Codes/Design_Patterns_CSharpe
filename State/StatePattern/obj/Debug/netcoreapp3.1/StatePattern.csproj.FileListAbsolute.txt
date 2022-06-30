@@ -1,0 +1,14 @@
+C:\Users\craig\Documents\Programming\Design Patterns\State\StatePattern\bin\Debug\netcoreapp3.1\StatePattern.exe
+C:\Users\craig\Documents\Programming\Design Patterns\State\StatePattern\bin\Debug\netcoreapp3.1\StatePattern.deps.json
+C:\Users\craig\Documents\Programming\Design Patterns\State\StatePattern\bin\Debug\netcoreapp3.1\StatePattern.runtimeconfig.json
+C:\Users\craig\Documents\Programming\Design Patterns\State\StatePattern\bin\Debug\netcoreapp3.1\StatePattern.runtimeconfig.dev.json
+C:\Users\craig\Documents\Programming\Design Patterns\State\StatePattern\bin\Debug\netcoreapp3.1\StatePattern.dll
+C:\Users\craig\Documents\Programming\Design Patterns\State\StatePattern\bin\Debug\netcoreapp3.1\StatePattern.pdb
+C:\Users\craig\Documents\Programming\Design Patterns\State\StatePattern\obj\Debug\netcoreapp3.1\StatePattern.csproj.AssemblyReference.cache
+C:\Users\craig\Documents\Programming\Design Patterns\State\StatePattern\obj\Debug\netcoreapp3.1\StatePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\craig\Documents\Programming\Design Patterns\State\StatePattern\obj\Debug\netcoreapp3.1\StatePattern.AssemblyInfoInputs.cache
+C:\Users\craig\Documents\Programming\Design Patterns\State\StatePattern\obj\Debug\netcoreapp3.1\StatePattern.AssemblyInfo.cs
+C:\Users\craig\Documents\Programming\Design Patterns\State\StatePattern\obj\Debug\netcoreapp3.1\StatePattern.csproj.CoreCompileInputs.cache
+C:\Users\craig\Documents\Programming\Design Patterns\State\StatePattern\obj\Debug\netcoreapp3.1\StatePattern.dll
+C:\Users\craig\Documents\Programming\Design Patterns\State\StatePattern\obj\Debug\netcoreapp3.1\StatePattern.pdb
+C:\Users\craig\Documents\Programming\Design Patterns\State\StatePattern\obj\Debug\netcoreapp3.1\StatePattern.genruntimeconfig.cache
