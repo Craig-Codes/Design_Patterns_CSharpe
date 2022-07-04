@@ -1,0 +1,14 @@
+C:\Users\craig\Documents\Programming\Design Patterns\Strategy\bin\Debug\netcoreapp3.1\Strategy.exe
+C:\Users\craig\Documents\Programming\Design Patterns\Strategy\bin\Debug\netcoreapp3.1\Strategy.deps.json
+C:\Users\craig\Documents\Programming\Design Patterns\Strategy\bin\Debug\netcoreapp3.1\Strategy.runtimeconfig.json
+C:\Users\craig\Documents\Programming\Design Patterns\Strategy\bin\Debug\netcoreapp3.1\Strategy.runtimeconfig.dev.json
+C:\Users\craig\Documents\Programming\Design Patterns\Strategy\bin\Debug\netcoreapp3.1\Strategy.dll
+C:\Users\craig\Documents\Programming\Design Patterns\Strategy\bin\Debug\netcoreapp3.1\Strategy.pdb
+C:\Users\craig\Documents\Programming\Design Patterns\Strategy\obj\Debug\netcoreapp3.1\Strategy.csproj.AssemblyReference.cache
+C:\Users\craig\Documents\Programming\Design Patterns\Strategy\obj\Debug\netcoreapp3.1\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\craig\Documents\Programming\Design Patterns\Strategy\obj\Debug\netcoreapp3.1\Strategy.AssemblyInfoInputs.cache
+C:\Users\craig\Documents\Programming\Design Patterns\Strategy\obj\Debug\netcoreapp3.1\Strategy.AssemblyInfo.cs
+C:\Users\craig\Documents\Programming\Design Patterns\Strategy\obj\Debug\netcoreapp3.1\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\craig\Documents\Programming\Design Patterns\Strategy\obj\Debug\netcoreapp3.1\Strategy.dll
+C:\Users\craig\Documents\Programming\Design Patterns\Strategy\obj\Debug\netcoreapp3.1\Strategy.pdb
+C:\Users\craig\Documents\Programming\Design Patterns\Strategy\obj\Debug\netcoreapp3.1\Strategy.genruntimeconfig.cache
