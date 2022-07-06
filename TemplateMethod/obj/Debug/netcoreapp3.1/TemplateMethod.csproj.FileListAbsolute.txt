@@ -1,0 +1,14 @@
+C:\Users\craig\Documents\Programming\Design Patterns\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.exe
+C:\Users\craig\Documents\Programming\Design Patterns\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.deps.json
+C:\Users\craig\Documents\Programming\Design Patterns\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.runtimeconfig.json
+C:\Users\craig\Documents\Programming\Design Patterns\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.runtimeconfig.dev.json
+C:\Users\craig\Documents\Programming\Design Patterns\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.dll
+C:\Users\craig\Documents\Programming\Design Patterns\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.pdb
+C:\Users\craig\Documents\Programming\Design Patterns\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.csproj.AssemblyReference.cache
+C:\Users\craig\Documents\Programming\Design Patterns\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\craig\Documents\Programming\Design Patterns\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.AssemblyInfoInputs.cache
+C:\Users\craig\Documents\Programming\Design Patterns\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.AssemblyInfo.cs
+C:\Users\craig\Documents\Programming\Design Patterns\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\craig\Documents\Programming\Design Patterns\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.dll
+C:\Users\craig\Documents\Programming\Design Patterns\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.pdb
+C:\Users\craig\Documents\Programming\Design Patterns\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.genruntimeconfig.cache
