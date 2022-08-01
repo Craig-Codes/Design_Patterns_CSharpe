@@ -1,0 +1,14 @@
+C:\Users\craig\Documents\Programming\Design Patterns\Command\bin\Debug\netcoreapp3.1\Command.exe
+C:\Users\craig\Documents\Programming\Design Patterns\Command\bin\Debug\netcoreapp3.1\Command.deps.json
+C:\Users\craig\Documents\Programming\Design Patterns\Command\bin\Debug\netcoreapp3.1\Command.runtimeconfig.json
+C:\Users\craig\Documents\Programming\Design Patterns\Command\bin\Debug\netcoreapp3.1\Command.runtimeconfig.dev.json
+C:\Users\craig\Documents\Programming\Design Patterns\Command\bin\Debug\netcoreapp3.1\Command.dll
+C:\Users\craig\Documents\Programming\Design Patterns\Command\bin\Debug\netcoreapp3.1\Command.pdb
+C:\Users\craig\Documents\Programming\Design Patterns\Command\obj\Debug\netcoreapp3.1\Command.csproj.AssemblyReference.cache
+C:\Users\craig\Documents\Programming\Design Patterns\Command\obj\Debug\netcoreapp3.1\Command.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\craig\Documents\Programming\Design Patterns\Command\obj\Debug\netcoreapp3.1\Command.AssemblyInfoInputs.cache
+C:\Users\craig\Documents\Programming\Design Patterns\Command\obj\Debug\netcoreapp3.1\Command.AssemblyInfo.cs
+C:\Users\craig\Documents\Programming\Design Patterns\Command\obj\Debug\netcoreapp3.1\Command.csproj.CoreCompileInputs.cache
+C:\Users\craig\Documents\Programming\Design Patterns\Command\obj\Debug\netcoreapp3.1\Command.dll
+C:\Users\craig\Documents\Programming\Design Patterns\Command\obj\Debug\netcoreapp3.1\Command.pdb
+C:\Users\craig\Documents\Programming\Design Patterns\Command\obj\Debug\netcoreapp3.1\Command.genruntimeconfig.cache
